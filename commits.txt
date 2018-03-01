@@ -1,0 +1,11 @@
+commit adf976aaa003ea9c52bcf2e65b0063a4f71a1e85
+Author: cuervoelias cuervinho <soliasq@gmail.com>
+Date:   Thu Mar 1 09:57:23 2018 -0400
+
+    armado completo de estructura de portafolio nusar git resr--hard
+
+commit 77570e65b54d0a34f2b995c0aa4a54f261fb42ca
+Author: cuervoelias cuervinho <soliasq@gmail.com>
+Date:   Wed Feb 28 07:51:11 2018 -0400
+
+    inciamos el proyectp portafolio
